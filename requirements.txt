@@ -1,0 +1,12 @@
+joblib==1.4.2
+numpy==2.2.4
+scikit-learn==1.6.1
+scipy==1.15.2
+setuptools==75.8.0
+torch==2.6.0
+typing_extensions==4.13.0
+wheel==0.45.1
+matplotlib==3.10.1
+pandas==2.2.3
+tqdm==4.67.1
+torchvision==0.21.0
